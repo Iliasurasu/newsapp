@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>  <!-- Здесь указываете название приложения -->
+    <string-array name="news_categories">
+        <item>all</item>
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+</resources>
